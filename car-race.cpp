@@ -1,6 +1,7 @@
 /*
 3D car race
 Project done by : Subash kc
+Full project on my github (link: https://github.com/subash9860/car-race)
 */
 
 #include <iostream>
